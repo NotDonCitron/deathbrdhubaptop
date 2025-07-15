@@ -1,5 +1,5 @@
 {
-  "appName": "AppFlowy",
+  "appName": "Bluebirdhub",
   "defaultUsername": "Me",
   "welcomeText": "Welcome to @:appName",
   "welcomeTo": "Welcome to",
@@ -37,7 +37,7 @@
     "loginStartWithAnonymous": "Continue with an anonymous session",
     "continueAnonymousUser": "Continue with an anonymous session",
     "continueWithLocalModel": "Continue with local model",
-    "switchToAppFlowyCloud": "AppFlowy Cloud",
+    "switchToAppFlowyCloud": "Bluebirdhub Cloud",
     "anonymousMode": "Anonymous mode",
     "buttonText": "Sign In",
     "signingInText": "Signing in...",
@@ -107,7 +107,7 @@
     "verifying": "Verifying...",
     "continueWithPassword": "Continue with password",
     "youAreInLocalMode": "You're in local mode.",
-    "loginToAppFlowyCloud": "Login to AppFlowy Cloud"
+    "loginToAppFlowyCloud": "Login to Bluebirdhub Cloud"
   },
   "workspace": {
     "chooseWorkspace": "Choose your workspace",
@@ -171,14 +171,14 @@
     "csv": "CSV",
     "copyLink": "Copy link",
     "publishToTheWeb": "Publish to Web",
-    "publishToTheWebHint": "Create a website with AppFlowy",
+    "publishToTheWebHint": "Create a website with Bluebirdhub",
     "publish": "Publish",
     "unPublish": "Unpublish",
     "visitSite": "Visit site",
     "exportAsTab": "Export as",
     "publishTab": "Publish",
     "shareTab": "Share",
-    "publishOnAppFlowy": "Publish on AppFlowy",
+    "publishOnAppFlowy": "Publish on Bluebirdhub",
     "shareTabTitle": "Invite to collaborate",
     "shareTabDescription": "For easy collaboration with anyone",
     "copyLinkSuccess": "Copied link to clipboard",
@@ -907,14 +907,14 @@
       "menuLabel": "AI Settings",
       "keys": {
         "enableAISearchTitle": "AI Search",
-        "aiSettingsDescription": "Choose your preferred model to power AppFlowy AI. Now includes GPT-4o, GPT-o3-mini, DeepSeek R1, Claude 3.5 Sonnet, and models available in Ollama",
+        "aiSettingsDescription": "Choose your preferred model to power Bluebirdhub AI. Now includes GPT-4o, GPT-o3-mini, DeepSeek R1, Claude 3.5 Sonnet, and models available in Ollama",
         "loginToEnableAIFeature": "AI features are only enabled after logging in with @:appName Cloud. If you don't have an @:appName account, go to 'My Account' to sign up",
         "llmModel": "Language Model",
         "globalLLMModel": "Global Language Model",
         "readOnlyField": "This field is read-only",
         "llmModelType": "Language Model Type",
         "downloadLLMPrompt": "Download {}",
-        "downloadAppFlowyOfflineAI": "Downloading AI offline package will enable AI to run on your device. Do you want to continue?",
+        "downloadAppFlowyOfflineAI": "Downloading AI offline package will enable AI to run on your device. Do you want to continue?"
         "downloadLLMPromptDetail": "Downloading {} local model will take up to {} of storage. Do you want to continue?",
         "downloadBigFilePrompt": "It may take around 10 minutes to complete the download",
         "downloadAIModelButton": "Download",
@@ -933,12 +933,12 @@
         "restartLocalAI": "Restart",
         "disableLocalAITitle": "Disable local AI",
         "disableLocalAIDescription": "Do you want to disable local AI?",
-        "localAIToggleTitle": "AppFlowy Local AI (LAI)",
-        "localAIToggleSubTitle": "Run the most advanced local AI models within AppFlowy for ultimate privacy and security",
+        "localAIToggleTitle": "Bluebirdhub Local AI (LAI)"
+        "localAIToggleSubTitle": "Run the most advanced local AI models within Bluebirdhub for ultimate privacy and security"
         "offlineAIInstruction1": "Follow the",
         "offlineAIInstruction2": "instruction",
         "offlineAIInstruction3": "to enable offline AI.",
-        "offlineAIDownload1": "If you have not downloaded the AppFlowy AI, please",
+        "offlineAIDownload1": "If you have not downloaded the Bluebirdhub AI, please"
         "offlineAIDownload2": "download",
         "offlineAIDownload3": "it first",
         "activeOfflineAI": "Active",
@@ -948,226 +948,9 @@
         "ollamaNotReady": "The Ollama server is not ready.",
         "pleaseFollowThese": "Please follow these",
         "instructions": "instructions",
-        "installOllamaLai": "to set up Ollama and AppFlowy Local AI.",
+        "installOllamaLai": "to set up Ollama and Bluebirdhub Local AI."
         "modelsMissing": "Cannot find the required models: ",
         "downloadModel": "to download them."
-      }
-    },
-    "planPage": {
-      "menuLabel": "Plan",
-      "title": "Pricing plan",
-      "planUsage": {
-        "title": "Plan usage summary",
-        "storageLabel": "Storage",
-        "storageUsage": "{} of {} GB",
-        "unlimitedStorageLabel": "Unlimited storage",
-        "collaboratorsLabel": "Members",
-        "collaboratorsUsage": "{} of {}",
-        "aiResponseLabel": "AI Responses",
-        "aiResponseUsage": "{} of {}",
-        "unlimitedAILabel": "Unlimited responses",
-        "proBadge": "Pro",
-        "aiMaxBadge": "AI Max",
-        "aiOnDeviceBadge": "AI On-device for Mac",
-        "memberProToggle": "More members & unlimited AI & guest access",
-        "aiMaxToggle": "Unlimited AI and access to advanced models",
-        "aiOnDeviceToggle": "Local AI for ultimate privacy",
-        "aiCredit": {
-          "title": "Add @:appName AI Credit",
-          "price": "{}",
-          "priceDescription": "for 1,000 credits",
-          "purchase": "Purchase AI",
-          "info": "Add 1,000 Ai credits per workspace and seamlessly integrate customizable AI into your workflow for smarter, faster results with up to:",
-          "infoItemOne": "10,000 responses per database",
-          "infoItemTwo": "1,000 responses per workspace"
-        },
-        "currentPlan": {
-          "bannerLabel": "Current plan",
-          "freeTitle": "Free",
-          "proTitle": "Pro",
-          "teamTitle": "Team",
-          "freeInfo": "Perfect for individuals up to 2 members to organize everything",
-          "proInfo": "Perfect for small and medium teams up to 10 members.",
-          "teamInfo": "Perfect for all productive and well-organized teams..",
-          "upgrade": "Change plan",
-          "canceledInfo": "Your plan is cancelled, you will be downgraded to the Free plan on {}."
-        },
-        "addons": {
-          "title": "Add-ons",
-          "addLabel": "Add",
-          "activeLabel": "Added",
-          "aiMax": {
-            "title": "AI Max",
-            "description": "Unlimited AI responses powered by advanced AI models, and 50 AI images per month",
-            "price": "{}",
-            "priceInfo": "Per user per month billed annually"
-          },
-          "aiOnDevice": {
-            "title": "AI On-device for Mac",
-            "description": "Run Mistral 7B, LLAMA 3, and more local models on your machine",
-            "price": "{}",
-            "priceInfo": "Per user per month billed annually",
-            "recommend": "Recommend M1 or newer"
-          }
-        },
-        "deal": {
-          "bannerLabel": "New year deal!",
-          "title": "Grow your team!",
-          "info": "Upgrade and save 10% off Pro and Team plans! Boost your workspace productivity with powerful new features including @:appName AI.",
-          "viewPlans": "View plans"
-        }
-      }
-    },
-    "billingPage": {
-      "menuLabel": "Billing",
-      "title": "Billing",
-      "plan": {
-        "title": "Plan",
-        "freeLabel": "Free",
-        "proLabel": "Pro",
-        "planButtonLabel": "Change plan",
-        "billingPeriod": "Billing period",
-        "periodButtonLabel": "Edit period"
-      },
-      "paymentDetails": {
-        "title": "Payment details",
-        "methodLabel": "Payment method",
-        "methodButtonLabel": "Edit method"
-      },
-      "addons": {
-        "title": "Add-ons",
-        "addLabel": "Add",
-        "removeLabel": "Remove",
-        "renewLabel": "Renew",
-        "aiMax": {
-          "label": "AI Max",
-          "description": "Unlock unlimited AI and advanced models",
-          "activeDescription": "Next invoice due on {}",
-          "canceledDescription": "AI Max will be available until {}"
-        },
-        "aiOnDevice": {
-          "label": "AI On-device for Mac",
-          "description": "Unlock unlimited AI On-device on your device",
-          "activeDescription": "Next invoice due on {}",
-          "canceledDescription": "AI On-device for Mac will be available until {}"
-        },
-        "removeDialog": {
-          "title": "Remove {}",
-          "description": "Are you sure you want to remove {plan}? You will lose access to the features and benefits of {plan} immediately."
-        }
-      },
-      "currentPeriodBadge": "CURRENT",
-      "changePeriod": "Change period",
-      "planPeriod": "{} period",
-      "monthlyInterval": "Monthly",
-      "monthlyPriceInfo": "per seat billed monthly",
-      "annualInterval": "Annually",
-      "annualPriceInfo": "per seat billed annually"
-    },
-    "comparePlanDialog": {
-      "title": "Compare & select plan",
-      "planFeatures": "Plan\nFeatures",
-      "current": "Current",
-      "actions": {
-        "upgrade": "Upgrade",
-        "downgrade": "Downgrade",
-        "current": "Current"
-      },
-      "freePlan": {
-        "title": "Free",
-        "description": "For individuals up to 2 members to organize everything",
-        "price": "{}",
-        "priceInfo": "Free forever"
-      },
-      "proPlan": {
-        "title": "Pro",
-        "description": "For small teams to manage projects and team knowledge",
-        "price": "{}",
-        "priceInfo": "Per user per month \nbilled annually\n\n{} billed monthly"
-      },
-      "planLabels": {
-        "itemOne": "Workspaces",
-        "itemTwo": "Members",
-        "itemThree": "Storage",
-        "itemFour": "Real-time collaboration",
-        "itemFive": "Guest editors",
-        "itemSix": "AI Responses",
-        "itemSeven": "AI Images",
-        "itemFileUpload": "File uploads",
-        "customNamespace": "Custom namespace",
-        "tooltipFive": "Collaborate on specific pages with non-members",
-        "tooltipSix": "Lifetime means the number of responses never reset",
-        "intelligentSearch": "Intelligent search",
-        "tooltipSeven": "Allows you to customize part of the URL for your workspace",
-        "customNamespaceTooltip": "Custom published site URL"
-      },
-      "freeLabels": {
-        "itemOne": "Charged per workspace",
-        "itemTwo": "Up to 2",
-        "itemThree": "5 GB",
-        "itemFour": "yes",
-        "itemFive": "yes",
-        "itemSix": "10 lifetime",
-        "itemSeven": "2 lifetime",
-        "itemFileUpload": "Up to 7 MB",
-        "intelligentSearch": "Intelligent search"
-      },
-      "proLabels": {
-        "itemOne": "Charged per workspace",
-        "itemTwo": "Up to 10",
-        "itemThree": "Unlimited",
-        "itemFour": "yes",
-        "itemFive": "Up to 100",
-        "itemSix": "Unlimited",
-        "itemSeven": "50 images per month",
-        "itemFileUpload": "Unlimited",
-        "intelligentSearch": "Intelligent search"
-      },
-      "paymentSuccess": {
-        "title": "You are now on the {} plan!",
-        "description": "Your payment has been successfully processed and your plan is upgraded to @:appName {}. You can view your plan details on the Plan page"
-      },
-      "downgradeDialog": {
-        "title": "Are you sure you want to downgrade your plan?",
-        "description": "Downgrading your plan will revert you back to the Free plan. Members may lose access to this workspace and you may need to free up space to meet the storage limits of the Free plan.",
-        "downgradeLabel": "Downgrade plan"
-      }
-    },
-    "cancelSurveyDialog": {
-      "title": "Sorry to see you go",
-      "description": "We're sorry to see you go. We'd love to hear your feedback to help us improve @:appName. Please take a moment to answer a few questions.",
-      "commonOther": "Other",
-      "otherHint": "Write your answer here",
-      "questionOne": {
-        "question": "What prompted you to cancel your @:appName Pro subscription?",
-        "answerOne": "Cost too high",
-        "answerTwo": "Features did not meet expectations",
-        "answerThree": "Found a better alternative",
-        "answerFour": "Did not use it enough to justify the expense",
-        "answerFive": "Service issue or technical difficulties"
-      },
-      "questionTwo": {
-        "question": "How likely are you to consider re-subscribing to @:appName Pro in the future?",
-        "answerOne": "Very likely",
-        "answerTwo": "Somewhat likely",
-        "answerThree": "Not sure",
-        "answerFour": "Unlikely",
-        "answerFive": "Very unlikely"
-      },
-      "questionThree": {
-        "question": "Which Pro feature did you value the most during your subscription?",
-        "answerOne": "Multi-user collaboration",
-        "answerTwo": "Longer time version history",
-        "answerThree": "Unlimited AI responses",
-        "answerFour": "Access to local AI models"
-      },
-      "questionFour": {
-        "question": "How would you describe your overall experience with @:appName?",
-        "answerOne": "Great",
-        "answerTwo": "Good",
-        "answerThree": "Average",
-        "answerFour": "Below average",
-        "answerFive": "Unsatisfied"
       }
     },
     "common": {
@@ -1225,7 +1008,7 @@
       "customPathPrompt": "Storing the @:appName data folder in a cloud-synced folder such as Google Drive can pose risks. If the database within this folder is accessed or modified from multiple locations at the same time, it may result in synchronization conflicts and potential data corruption",
       "importAppFlowyData": "Import Data from External @:appName Folder",
       "importingAppFlowyDataTip": "Data import is in progress. Please do not close the app",
-      "importAppFlowyDataDescription": "Copy data from an external @:appName data folder and import it into the current AppFlowy data folder",
+      "importAppFlowyDataDescription": "Copy data from an external @:appName data folder and import it into the current Bluebirdhub data folder",
       "importSuccess": "Successfully imported the @:appName data folder",
       "importFailed": "Importing the @:appName data folder failed",
       "importGuide": "For further details, please check the referenced document"
@@ -2910,7 +2693,7 @@
     "reportPage": "Report page",
     "databaseHasNotBeenPublished": "Publishing a database is not supported yet.",
     "createdWith": "Created with",
-    "downloadApp": "Download AppFlowy",
+    "downloadApp": "Download Bluebirdhub",
     "copy": {
       "codeBlock": "The content of code block has been copied to the clipboard",
       "imageBlock": "The image link has been copied to the clipboard",
@@ -2923,7 +2706,7 @@
     "publishFailed": "Failed to publish",
     "unpublishFailed": "Failed to unpublish",
     "noAccessToVisit": "No access to this page...",
-    "createWithAppFlowy": "Create a website with AppFlowy",
+    "createWithAppFlowy": "Create a website with Bluebirdhub",
     "fastWithAI": "Fast and easy with AI.",
     "tryItNow": "Try it now",
     "onlyGridViewCanBePublished": "Only Grid view can be published",
@@ -2941,7 +2724,7 @@
     "selectWorkspace": "Select a workspace",
     "addTo": "Add to",
     "duplicateSuccessfully": "Added to your workspace",
-    "duplicateSuccessfullyDescription": "Don't have AppFlowy installed? The download will start automatically after you click 'Download'.",
+    "duplicateSuccessfullyDescription": "Don't have Bluebirdhub installed? The download will start automatically after you click 'Download'.",
     "downloadIt": "Download",
     "openApp": "Open in app",
     "duplicateFailed": "Duplicated failed",
@@ -2962,8 +2745,8 @@
     "continueWithApple": "Continue with Apple ",
     "moreOptions": "More options",
     "collapse": "Collapse",
-    "signInAgreement": "By clicking \"Continue\" above, you agreed to \nAppFlowy's ",
-    "signInLocalAgreement": "By clicking \"Get Started\" above, you agreed to \nAppFlowy's ",
+    "signInAgreement": "By clicking \"Continue\" above, you agreed to \nBluebirdhub's ",
+    "signInLocalAgreement": "By clicking \"Get Started\" above, you agreed to \nBluebirdhub's "
     "and": "and",
     "termOfUse": "Terms",
     "privacyPolicy": "Privacy Policy",
@@ -3124,7 +2907,7 @@
     "joinWorkspace": "Join workspace",
     "success": "You've successfully joined the workspace",
     "successMessage": "You can now access all the pages and workspaces within it.",
-    "openWorkspace": "Open AppFlowy",
+    "openWorkspace": "Open Bluebirdhub",
     "alreadyAccepted": "You've already accepted the invitation",
     "errorModal": {
       "title": "Something went wrong",
@@ -3150,7 +2933,7 @@
     "title": "Approve Workspace Join Request",
     "requestSummary": "<user/> requests to join <workspace/> and access <page/>",
     "upgrade": "upgrade",
-    "downloadApp": "Download AppFlowy",
+    "downloadApp": "Download Bluebirdhub",
     "approveButton": "Approve",
     "approveSuccess": "Approved successfully",
     "approveError": "Failed to approve, ensure the workspace plan limit is not exceeded",
@@ -3171,7 +2954,7 @@
   "upgradePlanModal": {
     "title": "Upgrade to Pro",
     "message": "{name} has reached the free member limit. Upgrade to the Pro Plan to invite more members.",
-    "upgradeSteps": "How to upgrade your plan on AppFlowy:",
+    "upgradeSteps": "How to upgrade your plan on Bluebirdhub:",
     "step1": "1. Go to Settings",
     "step2": "2. Click on 'Plan'",
     "step3": "3. Select 'Change Plan'",
@@ -3310,7 +3093,7 @@
       "commonOther": "Other",
       "otherHint": "Write your answer here",
       "questionOne": {
-        "question": "What prompted you to cancel your AppFlowy Pro subscription?",
+        "question": "What prompted you to cancel your Bluebirdhub Pro subscription?",
         "answerOne": "Cost too high",
         "answerTwo": "Features did not meet expectations",
         "answerThree": "Found a better alternative",
@@ -3318,7 +3101,7 @@
         "answerFive": "Service issue or technical difficulties"
       },
       "questionTwo": {
-        "question": "How likely are you to consider re-subscribing to AppFlowy Pro in the future?",
+        "question": "How likely are you to consider re-subscribing to Bluebirdhub Pro in the future?",
         "answerOne": "Very likely",
         "answerTwo": "Somewhat likely",
         "answerThree": "Not sure",
@@ -3333,7 +3116,7 @@
         "answerFour": "Access to local AI models"
       },
       "questionFour": {
-        "question": "How would you describe your overall experience with AppFlowy?",
+        "question": "How would you describe your overall experience with Bluebirdhub?"
         "answerOne": "Great",
         "answerTwo": "Good",
         "answerThree": "Average",
