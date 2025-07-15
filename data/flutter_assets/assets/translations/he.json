@@ -641,65 +641,6 @@
         "stabilityAIHint": "נא למלא את מפתח ה־API שלך ב־Stability"
       }
     },
-    "planPage": {
-      "menuLabel": "תוכנית",
-      "title": "תוכנית חיוב",
-      "planUsage": {
-        "title": "תקציר שימוש בתוכנית",
-        "storageLabel": "אחסון",
-        "storageUsage": "{} מתוך {} ג״ב",
-        "collaboratorsLabel": "שותפים",
-        "collaboratorsUsage": "{} מתוך {}",
-        "aiResponseLabel": "תגובות בינה מלאכותית",
-        "aiResponseUsage": "{} מתוך {}",
-        "proBadge": "פרו",
-        "memberProToggle": "אין הגבלה על כמות חברים",
-        "aiCredit": {
-          "title": "הוספת קרדיט בינה מלאכותית ל־@:appName",
-          "price": "{}",
-          "priceDescription": "ל־1,000 קרדיטים",
-          "purchase": "רכישת בינה מלאכותית",
-          "info": "הוספת 1,000 קרדיטים של בינה מלאכותית לכל סביבת עבודה ושילוב בינה מלאכותית מותאמת למרחב העבודה שלך לתוצאות חכמות ומהירות יותר עם עד:",
-          "infoItemOne": "10,000 תגובות למסד נתונים",
-          "infoItemTwo": "1,000 תגובות לסביבת עבודה"
-        },
-        "currentPlan": {
-          "bannerLabel": "תוכנית נוכחית",
-          "freeTitle": "חינם",
-          "proTitle": "פרו",
-          "teamTitle": "צוות",
-          "freeInfo": "מעולה לעצמאיים או צוותים קטנים של עד 2 חברים.",
-          "proInfo": "מעולה לצוות קטנים ובינוניים עד 10 חברים.",
-          "teamInfo": "מעולה לכל סוג של צוות משימתי שמאורגן היטב.",
-          "upgrade": "השוואה\n ושדרוג",
-          "canceledInfo": "התוכנית שלך בוטלה, יבוצע שנמוך לתוכנית החופשית ב־{}.",
-          "freeProOne": "מרחב עבודה שיתופי",
-          "freeProTwo": "עד 2 חברים (כולל הבעלים)",
-          "freeProThree": "כמות אורחים בלתי מוגבלת (צפייה בלבד)",
-          "freeProFour": "אחסון של 5 ג״ב",
-          "freeProFive": "30 ימי היסטוריית מהדורות",
-          "freeConOne": "משתתפי אורח (גישת עריכה)",
-          "freeConTwo": "ללא הגבלת אחסון",
-          "freeConThree": "6 חודשי היסטוריית מהדורות",
-          "professionalProOne": "מרחב עבודה שיתופי",
-          "professionalProTwo": "כמות חברים בלתי מוגבלת",
-          "professionalProThree": "כמות אורחים בלתי מוגבלת (צפייה בלבד)",
-          "professionalProFour": "אחסון ללא הגבלה",
-          "professionalProFive": "6 חודשי היסטוריית מהדורות",
-          "professionalConOne": "משתתפי אורח ללא הגבלה (גישת עריכה)",
-          "professionalConTwo": "תגובות מבינה מלאכותית ללא הגבלה",
-          "professionalConThree": "שנה של היסטוריית מהדורות"
-        },
-        "deal": {
-          "bannerLabel": "מבצע לשנה החדשה!",
-          "title": "הגדלת הצוות שלך!",
-          "info": "שדרוג כעת יזכה אותך ב־10% הנחה מתוכניות פרו ולצוותים! אפשר לחזק את יעילות סביבת העבודה שלך עם יכולות חדשות ורבות עוצמה כולל הבינה המלאכותית של @:appName.",
-          "viewPlans": "הצגת תוכניות"
-        },
-        "guestCollabToggle": "10 משתתפי אורח",
-        "storageUnlimited": "אחסון ללא הגבלה עם תוכנית הפרו שלך"
-      }
-    },
     "billingPage": {
       "menuLabel": "חיוב",
       "title": "חיוב",

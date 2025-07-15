@@ -987,7 +987,7 @@
       }
     },
     "billingPage": {
-      "menuLabel": "Facturation",
+      "menuLabel": "",
       "title": "Facturation",
       "plan": {
         "title": "Plan",

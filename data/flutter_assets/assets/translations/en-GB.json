@@ -888,73 +888,8 @@
         "downloadModel": "to download them."
       }
     },
-    "planPage": {
-      "menuLabel": "Plan",
-      "title": "Pricing plan",
-      "planUsage": {
-        "title": "Plan usage summary",
-        "storageLabel": "Storage",
-        "storageUsage": "{} of {} GB",
-        "unlimitedStorageLabel": "Unlimited storage",
-        "collaboratorsLabel": "Members",
-        "collaboratorsUsage": "{} of {}",
-        "aiResponseLabel": "AI Responses",
-        "aiResponseUsage": "{} of {}",
-        "unlimitedAILabel": "Unlimited responses",
-        "proBadge": "Pro",
-        "aiMaxBadge": "AI Max",
-        "aiOnDeviceBadge": "AI On-device for Mac",
-        "memberProToggle": "More members & unlimited AI",
-        "aiMaxToggle": "Unlimited AI and access to advanced models",
-        "aiOnDeviceToggle": "Local AI for ultimate privacy",
-        "aiCredit": {
-          "title": "Add @:appName AI Credit",
-          "price": "{}",
-          "priceDescription": "for 1,000 credits",
-          "purchase": "Purchase AI",
-          "info": "Add 1,000 Ai credits per workspace and seamlessly integrate customisable AI into your workflow for smarter, faster results with up to:",
-          "infoItemOne": "10,000 responses per database",
-          "infoItemTwo": "1,000 responses per workspace"
-        },
-        "currentPlan": {
-          "bannerLabel": "Current plan",
-          "freeTitle": "Free",
-          "proTitle": "Pro",
-          "teamTitle": "Team",
-          "freeInfo": "Perfect for individuals up to 2 members to organise everything",
-          "proInfo": "Perfect for small and medium teams up to 10 members.",
-          "teamInfo": "Perfect for all productive and well-organised teams..",
-          "upgrade": "Change plan",
-          "canceledInfo": "Your plan is cancelled, you will be downgraded to the Free plan on {}."
-        },
-        "addons": {
-          "title": "Add-ons",
-          "addLabel": "Add",
-          "activeLabel": "Added",
-          "aiMax": {
-            "title": "AI Max",
-            "description": "Unlimited AI responses powered by advanced AI models, and 50 AI images per month",
-            "price": "{}",
-            "priceInfo": "Per user per month billed annually"
-          },
-          "aiOnDevice": {
-            "title": "AI On-device for Mac",
-            "description": "Run Mistral 7B, LLAMA 3, and more local models on your machine",
-            "price": "{}",
-            "priceInfo": "Per user per month billed annually",
-            "recommend": "Recommend M1 or newer"
-          }
-        },
-        "deal": {
-          "bannerLabel": "New year deal!",
-          "title": "Grow your team!",
-          "info": "Upgrade and save 10% off Pro and Team plans! Boost your workspace productivity with powerful new features including @:appName AI.",
-          "viewPlans": "View plans"
-        }
-      }
-    },
     "billingPage": {
-      "menuLabel": "Billing",
+      "menuLabel": "",
       "title": "Billing",
       "plan": {
         "title": "Plan",
