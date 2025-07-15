@@ -948,7 +948,7 @@
         "ollamaNotReady": "The Ollama server is not ready.",
         "pleaseFollowThese": "Please follow these",
         "instructions": "instructions",
-        "installOllamaLai": "to set up Ollama and Bluebirdhub Local AI."
+        "installOllamaLai": "to set up Ollama and Bluebirdhub Local AI.",
         "modelsMissing": "Cannot find the required models: ",
         "downloadModel": "to download them."
       }
