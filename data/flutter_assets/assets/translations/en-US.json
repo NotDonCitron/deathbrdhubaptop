@@ -914,7 +914,7 @@
         "readOnlyField": "This field is read-only",
         "llmModelType": "Language Model Type",
         "downloadLLMPrompt": "Download {}",
-        "downloadAppFlowyOfflineAI": "Downloading AI offline package will enable AI to run on your device. Do you want to continue?"
+        "downloadAppFlowyOfflineAI": "Downloading AI offline package will enable AI to run on your device. Do you want to continue?",
         "downloadLLMPromptDetail": "Downloading {} local model will take up to {} of storage. Do you want to continue?",
         "downloadBigFilePrompt": "It may take around 10 minutes to complete the download",
         "downloadAIModelButton": "Download",
