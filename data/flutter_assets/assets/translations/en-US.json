@@ -933,12 +933,12 @@
         "restartLocalAI": "Restart",
         "disableLocalAITitle": "Disable local AI",
         "disableLocalAIDescription": "Do you want to disable local AI?",
-        "localAIToggleTitle": "Bluebirdhub Local AI (LAI)"
-        "localAIToggleSubTitle": "Run the most advanced local AI models within Bluebirdhub for ultimate privacy and security"
+        "localAIToggleTitle": "Bluebirdhub Local AI (LAI)",
+        "localAIToggleSubTitle": "Run the most advanced local AI models within Bluebirdhub for ultimate privacy and security",
         "offlineAIInstruction1": "Follow the",
         "offlineAIInstruction2": "instruction",
         "offlineAIInstruction3": "to enable offline AI.",
-        "offlineAIDownload1": "If you have not downloaded the Bluebirdhub AI, please"
+        "offlineAIDownload1": "If you have not downloaded the Bluebirdhub AI, please",
         "offlineAIDownload2": "download",
         "offlineAIDownload3": "it first",
         "activeOfflineAI": "Active",
