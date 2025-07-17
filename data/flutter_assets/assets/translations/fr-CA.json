@@ -128,7 +128,7 @@
     "exportAsTab": "Exporter en tant que",
     "publishTab": "Partager",
     "shareTab": "Partager",
-    "publishOnAppFlowy": "Partager sur AppFlowy"
+    "publishOnBluebirdHub": "Partager sur AppFlowy"
   },
   "moreAction": {
     "small": "petit",
@@ -335,9 +335,9 @@
       "cloudServerType": "Serveur cloud",
       "cloudServerTypeTip": "Veuillez noter qu'il est possible que votre compte actuel soit déconnecté après avoir changé de serveur cloud.",
       "cloudLocal": "Local",
-      "cloudAppFlowy": "@:appName Cloud Bêta",
-      "cloudAppFlowySelfHost": "@:appName Cloud auto-hébergé",
-      "appFlowyCloudUrlCanNotBeEmpty": "L'URL cloud ne peut pas être vide",
+      "cloudBluebirdHub": "@:appName Cloud Bêta",
+      "cloudBluebirdHubSelfHost": "@:appName Cloud auto-hébergé",
+      "bluebirdHubCloudUrlCanNotBeEmpty": "L'URL cloud ne peut pas être vide",
       "clickToCopy": "Cliquez pour copier",
       "selfHostStart": "Si vous n'avez pas de serveur, veuillez vous référer au",
       "selfHostContent": "document",

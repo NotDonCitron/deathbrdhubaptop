@@ -608,7 +608,7 @@
       "cloudServerType": "Servidor em nuvem",
       "cloudServerTypeTip": "Observe que ele pode desconectar sua conta atual após mudar o servidor em nuvem",
       "cloudLocal": "Local",
-      "cloudAppFlowy": "@:appName Cloud Beta",
+      "cloudBluebirdHub": "@:appName Cloud Beta",
       "clickToCopy": "Clique para copiar",
       "selfHostStart": "Se você não possui um servidor, consulte o",
       "selfHostContent": "documento",

@@ -425,7 +425,7 @@
       "cloudLocal": "Local",
       "cloudBluebirdhub": "Nube @:appName",
       "cloudBluebirdhubSelfHost": "@:appName Cloud autohospedado",
-      "appFlowyCloudUrlCanNotBeEmpty": "La URL de la nube no puede estar vacía",
+      "bluebirdHubCloudUrlCanNotBeEmpty": "La URL de la nube no puede estar vacía",
       "clickToCopy": "Haga clic para copiar",
       "selfHostStart": "Si no tiene un servidor, consulte la",
       "selfHostContent": "documento",

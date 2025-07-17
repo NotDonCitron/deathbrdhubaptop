@@ -247,7 +247,7 @@
       "cloudServerType": "Molnserver",
       "cloudServerTypeTip": "Observera att det kan logga ut ditt nuvarande konto efter att ha bytt molnserver",
       "cloudLocal": "Lokal",
-      "appFlowyCloudUrlCanNotBeEmpty": "Molnets webbadress får inte vara tom",
+      "bluebirdHubCloudUrlCanNotBeEmpty": "Molnets webbadress får inte vara tom",
       "clickToCopy": "Klicka för att kopiera",
       "selfHostStart": "Om du inte har en server, vänligen se",
       "selfHostContent": "dokument",
